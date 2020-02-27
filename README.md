@@ -9,3 +9,4 @@ local modified
 local modified2
 
 remote modified3
+remote modified4
