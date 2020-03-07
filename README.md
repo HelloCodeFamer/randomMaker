@@ -11,3 +11,4 @@ local modified2
 remote modified3
 remote modified4
 remote modified5
+local modified6
